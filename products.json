@@ -88,9 +88,21 @@
       "alternatives": [
          "Dynamic Yield",
          "Klevu",
-         "Algolia"
+         "AlgShopify Paymentsolia"
       ],
       "image": "images/clerk.png"
+   },
+   {
+      "name": "Clearhaus A/S",
+      "url": "https://clearhaus.com",
+      "description": "Dansk betalingsindløser der tilbyder sikker kortbetaling, risikostyring og compliance for e-handel.",
+      "alternatives": [
+         "Stripe",
+         "Adyen",
+         "Bambora",
+         "Shopify Payments"
+      ],
+      "image": "images/clearhaus.png"
    },
    {
       "name": "dataandmore.com",
