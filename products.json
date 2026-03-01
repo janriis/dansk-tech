@@ -796,11 +796,23 @@
       "image": "images/shup.png",
       "description": "Simpel hosted e-commerce platform.",
       "alternatives": [
-         "WooCommerce", 
-         "Shopify", 
+         "WooCommerce",
+         "Shopify",
          "Wix eCommerce",
          "Squarespace",
          "BigCommerce"
+      ]
+   },
+   {
+      "name": "Shoporama",
+      "url": "https://www.shoporama.dk",
+      "description": "Dansk webshop-platform med tæt community, dansk support og værktøjer til SEO, markedsføring og ordrehåndtering",
+      "alternatives": [
+         "Shopify",
+         "WooCommerce",
+         "Magento",
+         "BigCommerce",
+         "Wix"
       ]
    },
 	{
