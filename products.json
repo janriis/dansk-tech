@@ -61,6 +61,22 @@
       ]
    },
    {
+      "name": "BOARD OFFICE",
+      "url": "https://www.board-office.dk",
+      "description": "Dansk platform til bestyrelsesarbejde med mødeadministration, sikker dokumentdeling og avancerede værktøjer og AI-integration til governance og samarbejde",
+      "alternatives": [
+         "Admincontrol",
+         "Diligent Boards",
+         "BoardEffect",
+         "OnBoard",
+         "iBabs",
+         "Sherpany",
+         "Azues Convene",
+         "Boardable"
+      ],
+      "image": "images/boardoffice.png"
+   },
+   {
       "name": "Boligforeningsweb",
       "url": "https://boligforeningsweb.dk",
       "description": "Software til administration af boligforeninger",
@@ -88,9 +104,21 @@
       "alternatives": [
          "Dynamic Yield",
          "Klevu",
-         "Algolia"
+         "AlgShopify Paymentsolia"
       ],
       "image": "images/clerk.png"
+   },
+   {
+      "name": "Clearhaus A/S",
+      "url": "https://clearhaus.com",
+      "description": "Dansk betalingsindløser der tilbyder sikker kortbetaling, risikostyring og compliance for e-handel.",
+      "alternatives": [
+         "Stripe",
+         "Adyen",
+         "Bambora",
+         "Shopify Payments"
+      ],
+      "image": "images/clearhaus.png"
    },
    {
       "name": "dataandmore.com",
@@ -250,6 +278,17 @@
       "image": "images/iteras.png"
    },
    {
+      "name": "Jarvis",
+      "url": "https://odagroup.dk/pharma",
+      "description": "AI-companion til frontline-teams i pharma der udvider eksisterende CRM-systemer med intelligent møde-forberedelse, debriefs, indsigter, prioritering og opfølgning.",
+      "alternatives": [
+         "Veeva CRM",
+         "Salesforce Life Sciences",
+         "IQVIA OCE"
+      ],
+      "image": "images/jarvis.png"
+   },
+   {
       "name": "Holdsport.dk",
       "url": "https://holdsport.dk",
       "description": "Software til kontingentopkrævning, kommunikation og medlemsadministration online.",
@@ -364,6 +403,17 @@
          "Microsoft 365"
       ],
       "image": "images/proprty-ai.png"
+   },
+   {
+      "name": "Quickpay",
+      "url": "https://www.quickpay.net",
+      "description": "Betalingsløsning",
+      "alternatives": [
+         "Stripe",
+         "Shopify Payments",
+         "Bambora"
+      ],
+      "image": "images/quickpay.png"
    },
    {
       "name": "Resos.com",
@@ -633,7 +683,8 @@
          "Levels.fyi",
          "PayScale",
          "Salary.com"
-      ]
+      ],
+       "image": "images/loenradar.png"
    },{
       "name":"Heysender",
       "url":"https://www.heysender.com",
@@ -764,5 +815,56 @@
          "Salesforce Service Cloud",
          "HubSpot Service Hub"
       ]
+   },
+   {
+      "name": "SHUP",
+      "url": "https://www.shup.dk",
+      "image": "images/shup.png",
+      "description": "Simpel hosted e-commerce platform.",
+      "alternatives": [
+         "WooCommerce",
+         "Shopify",
+         "Wix eCommerce",
+         "Squarespace",
+         "BigCommerce"
+      ]
+   },
+   {
+      "name": "Shoporama",
+      "url": "https://www.shoporama.dk",
+      "description": "Dansk webshop-platform med tæt community, dansk support og værktøjer til SEO, markedsføring og ordrehåndtering",
+      "alternatives": [
+         "Shopify",
+         "WooCommerce",
+         "Magento",
+         "BigCommerce",
+         "Wix"
+      ]
+   },
+	{
+      "name": "Plapre",
+      "url": "https://github.com/syv-ai/plapre",
+      "description": "Open source dansk tekst-til-tale med stemmekloning. Genererer 24kHz lyd fra dansk tekst og kan køres lokalt og on-prem — ingen data forlader din infrastruktur.",
+      "alternatives": [
+         "OpenAI TTS",
+         "ElevenLabs"
+      ]
+   },
+   {
+      "name": "PawNote",
+      "url": "https://pawnote.dk",
+      "description": "Bookingsystem og klinik-CRM udviklet specifikt til dyreterapeuter og mindre dyreklinikker.",
+      "alternatives": [
+         "Acuity Scheduling",
+         "Calendly",
+         "Time To Pet",
+         "ezyVet"
+      ]
+   },
+   {
+      "name": "Coherta",
+      "url": "https://www.coherta.com/da",
+      "description": "Coherta er en B2B platform til virksomheds- og kontaktdata, der samler, beriger og deduplikerer data til leadgenerering, segmentering og CRM-synkronisering (fx outreach, pipeline og rapportering).",
+      "alternatives": ["Bisnode/Dun & Bradstreet", "ZoomInfo", "Clearbit", "Lusha", "Apollo.io", "UpLead", "Lead411", "Snov.io", "Hunter.io", "Adapt.io", "LeadIQ", "DiscoverOrg", "InsideView", "LeadGenius", "LeadFuze", "LeadSift", "Leadspace", "LimeLeads"]
    }
 ]
